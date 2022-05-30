@@ -1,0 +1,107 @@
+.header{
+        width: 85%;
+    background: linear-gradient(110deg,#3228A9 ,#BC92DD 100%);
+    border-bottom-right-radius: 60em;
+    border-bottom-left-radius: 60em;
+    margin:auto;
+
+    box-shadow:0 0px 8px white;
+}
+.pok{
+   font-size: 2.5em;
+    text-align: center;
+    padding-bottom: 1rem;
+    color:white;
+}
+.bg{    background-color: #2D2239;
+
+}
+.name-tov{
+  color: white;
+    float: left;
+    font-size: 2em;
+    text-align: center;
+    width: 60%;
+
+}
+.rad{
+ width: 2em;
+    height: 2em;
+    background-color: white;
+    border-radius: 50%;
+    vertical-align: middle;
+    border: 1px solid #ddd;
+    -webkit-appearance: none;
+    outline: none;
+    cursor: pointer;
+    display: inline-block;
+    float: left;
+    margin-top: 10px;
+    background-color:#f0f8ff00;
+    margin-right: 4%;
+
+}
+.rad:checked {
+ transition: background 0.3s ease;
+    background-color:white;
+    opacity:65%;
+
+
+}
+
+.chb{
+        display: inline-block;
+    width: 1em;
+    margin-left: 8%;
+    height: 1em;
+    margin-top: 33px;
+}
+.centr{
+padding-top:5%;
+padding-bottom:20%;
+    margin: auto;
+}
+.ready{
+
+ background: linear-gradient(110deg,#4536AE ,#9A78C0 100%);
+    border-radius: 2em;
+    left: 69%;
+    border: 5px solid #A1A1A1;
+    width: 55%;
+    height:11%;
+    position: fixed;
+    top: 92%;
+    transform: translate(-50%, -50%);
+    z-index: 9999;
+}
+.add_d{
+margin-top:50%
+width:75%;
+
+}
+.add{
+width:2em;
+
+}
+.cl_img{
+width:3.5em;
+position: fixed;
+    top: 92%;
+    transform: translate(-50%, -50%);
+    left:13%
+
+}
+.ready-name{
+    color: white;
+     text-align: center;
+    font-size: 2em;
+    margin-top:2px;
+
+}
+.quant{
+    float: right;
+    font-size: 2em;
+    color: white;
+    width: 20%;
+
+}
